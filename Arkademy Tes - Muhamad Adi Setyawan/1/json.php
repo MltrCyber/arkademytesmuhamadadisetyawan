@@ -12,7 +12,7 @@
 		<input type="checkbox" name="hobbies[]" value="Gardening">Gardening</br>
 		Is Married ? <input type="radio" name="is_married" value="true">Yes
 		<input type="radio" name="is_married" value="false">No</br>
-		Hishschool : <input type="text" name="highschool">
+		Highschool : <input type="text" name="highschool">
 		University : <input type="text" name="university"></br>
 		Skills : <input type="checkbox" name="skills[]" value="PHP">PHP
 		<input type="checkbox" name="skills[]" value="Java">Java
