@@ -13,7 +13,7 @@
 			$summaryofhandshake = 0;
 
 			//perulangan untuk setiap orang (perorangan)
-			for ($numberofperson=1; $numberofperson < $person; $numberofperson++) { 
+			for ($numberofperson=1; $numberofperson < $summaryofperson; $numberofperson++) { 
 
 				//perulangan untuk jabat tangan setiap orang dengan orang yang nomer nya di atas orang yang berjabat tangan, jadi tidak terjadi 2x jabat tangan untuk orang yang sama
 				for ($i=1; $i <= $summaryofperson ; $i++) { 
